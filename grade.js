@@ -1,4 +1,3 @@
-// Defined prompt function
 
 const prompt = require("prompt-sync")();
 let grade = prompt('Enter Marks:');
@@ -24,4 +23,4 @@ else if (grade <= 49 && grade >= 40 ){
 else if (grade < 40){
     console.log('E')
 }
-};
+}
