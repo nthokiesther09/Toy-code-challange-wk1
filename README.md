@@ -16,7 +16,7 @@ For example, if the speed is 80, it should print: “Points: 2”. If the driver
 
 ### 3.Net Salary Calculator (Toy Problem)
 
-Write a program whose major task is to calculate an individual’s Net Salary by getting the inputs of basic salary and benefits. Calculate the payee (i.e. Tax), NHIFDeductions, NSSFDeductions, gross salary, and net salary. 
+this is a program whose major task is to calculate an individual’s Net Salary by getting the inputs of basic salary and benefits. Calculate the payee (i.e. Tax), NHIFDeductions, NSSFDeductions, gross salary, and net salary. 
 
 ### Requirements
 
@@ -25,13 +25,16 @@ Write a program whose major task is to calculate an individual’s Net Salary by
 
 ### Installation; 
 
-To access this project on your local files, you can clone it using these steps;
+To access this project on your local files in your computer, you can clone it using these steps;
 
 -Open your terminal
 
 -Use this command to clone $ git clone https://github.com/nthokiesther09/Toy-code-challange-wk1.
 
 -This will clone the repositoty into your local folder.
+-npm install prompt-sync was applied to prompt the user to add the required inputs for the programs to generate an output.
+
+
 
 ### Requirements
 1.computer
